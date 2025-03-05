@@ -71,11 +71,18 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 Need help implementing this framework or looking for custom automation solutions? Contact TestSquad:
 
-- 
-## 👤 Author
+## 👤 Author  
 *Daniyal Qureshi*  
-[🔗 LinkedIn Profile](https://www.linkedin.com/in/daniyalquraishi/)
-📧 Email: daniyalqureshi212@gmail.com
-💼 Services: Mobile Testing, Automation Solutions, QA Consulting
+
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/daniyalquraishi/)  
+
+📧 *Email:* daniyalqureshi212@gmail.com  
+
+💼 *Services:*  
+- Web Automation  
+- Mobile Automation  
+- Manual Testing  
+- Performance Testing  
+- Automation Solutions
 
 
