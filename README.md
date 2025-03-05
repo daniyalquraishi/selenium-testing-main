@@ -63,14 +63,6 @@ Test execution reports can be found in:
 
 Environment-specific configurations are stored in `src/test/resources/config/` directory.
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details. Mention TestSquad on LinkedIn :)
-
-## Support
-
-Need help implementing this framework or looking for custom automation solutions? Contact TestSquad:
-
 ## 👤 Author  
 *Daniyal Qureshi*  
 
